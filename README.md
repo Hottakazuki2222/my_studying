@@ -23,6 +23,11 @@ URL:https://www.youtube.com/@pythonvtuber9917
 の動画のコードを書いたものになります。
 決して私が、自分で作成したわけではございません。
 
+##使用している学習教材
+-Paiza learning
+-Pythonプログラミング VTuber サプー
+-各種AI
+
 ##今後の予定
 -list_Notebookの関数化
 -クラス導入の結果
