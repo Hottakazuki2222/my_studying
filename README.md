@@ -18,8 +18,9 @@ AI関与レベル３
 このファイルは、アルゴリズムを学習中にメモのごとくコードを書いていました。
 
 ###sapu-
-このファイルは、「Pythonプログラミング VTuber サプー:@pythonvtuber9917
-URL:https://www.youtube.com/@pythonvtuber9917」の動画のコードを書いたものになります。
+このファイルは、「Pythonプログラミング VTuber サプー:@pythonvtuber9917」
+URL:https://www.youtube.com/@pythonvtuber9917
+の動画のコードを書いたものになります。
 決して私が、自分で作成したわけではございません。
 
 ##今後の予定
